@@ -2,4 +2,4 @@
 
  ## Nota:
  
- Mi Repositorio: https://github.com/Fmejias03/Tarea-4-Los-Bucles.git
+ Mi Repositorio: https://github.com/Fmejias03/Parcial_1_22-23.git
